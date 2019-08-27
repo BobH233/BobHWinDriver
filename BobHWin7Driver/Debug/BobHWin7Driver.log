@@ -1,0 +1,21 @@
+﻿  Building 'BobHWin7Driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\BobHWin7Driver.inf
+  Stamping [Version] section with DriverVer=07/15/2018,21.34.36.642
+  BobHWin7Driver.vcxproj -> H:\编程\BobHWin7Driver\Debug\BobHWin7Driver.sys
+  Done Adding Additional Store
+  Successfully signed: H:\\BobHWin7Driver\Debug\BobHWin7Driver.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  H:\编程\BobHWin7Driver\Debug\BobHWin7Driver\bobhwin7driver.cat
+  Done Adding Additional Store
+  Successfully signed: H:\\BobHWin7Driver\Debug\BobHWin7Driver\bobhwin7driver.cat
+  
